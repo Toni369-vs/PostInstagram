@@ -1,15 +1,71 @@
 body {
-    background-color: azure;
-    font-family: 'Labrada', serif;font-family: 'Rajdhani', sans-serif;
-    font-family: 'Shantell Sans', cursive;
+  margin-top: 60px;
+  background-color: grey;
+  font-family: 'Labrada', serif;
+  font-family: 'Rajdhani', sans-serif;
+  font-family: 'Shantell Sans', cursive;
 }
 
 #contenedor-principal {
-    width: 450px;
-    margin: 0% auto;
+  background-color: white;
+  width: 474px;
+  margin: 0% auto;
+  border: solid black 2px;
+
 }
 
-.estado {
-    position: relative;
-    top: -15px;
+h3 {
+  position: relative;
+  top:-2px
 }
+
+.location {
+  font-size: 12px;
+  position: relative;
+  top:-24px
+}
+
+.icon {
+    font-size: 25px;
+    float: left;
+    padding: 10px;
+    position: relative;
+    top: -10px;
+}
+
+.dots {
+  font-size: 25px;
+  float: right;
+  padding: 10px;
+  position: relative;
+  top: -10px;
+  
+}
+
+img {
+  position: relative;
+  top: -30px;
+}
+
+.iconos {
+  font-size: 24px;
+  padding: 10px;
+  position: relative;
+  top: -30px;
+
+}
+
+.flag {
+  float: right;
+  margin-right: 20px;
+}
+
+.contenido {
+  padding: 15px;
+  margin-top: -50px;
+}
+
+.likes{
+  font-size: 14px;
+}
+
