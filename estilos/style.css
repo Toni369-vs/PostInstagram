@@ -1,0 +1,15 @@
+body {
+    background-color: azure;
+    font-family: 'Labrada', serif;font-family: 'Rajdhani', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+}
+
+#contenedor-principal {
+    width: 450px;
+    margin: 0% auto;
+}
+
+.estado {
+    position: relative;
+    top: -15px;
+}
